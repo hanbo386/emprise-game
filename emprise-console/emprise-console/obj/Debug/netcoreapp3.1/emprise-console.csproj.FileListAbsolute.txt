@@ -1,0 +1,14 @@
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.exe
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.deps.json
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.runtimeconfig.json
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.runtimeconfig.dev.json
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.dll
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\bin\Debug\netcoreapp3.1\emprise-console.pdb
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.csproj.AssemblyReference.cache
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.AssemblyInfoInputs.cache
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.AssemblyInfo.cs
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.csproj.CoreCompileInputs.cache
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.dll
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.pdb
+C:\Users\bhan\Documents\GitHub\emprise-game\emprise-console\emprise-console\obj\Debug\netcoreapp3.1\emprise-console.genruntimeconfig.cache
